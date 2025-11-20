@@ -1,0 +1,38 @@
+.nav-1 {
+    background-color: #333;
+    padding: 15px;
+    border-bottom: 3px solid #555;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    height: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.nav-1 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.nav-1 li {
+    float: left;
+}
+
+.nav-1 li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+.head-1 {
+    margin-left: 150px;
+}
+
+.para-1 {
+    margin-left: 150px;
+    color: grey
+}
